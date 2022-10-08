@@ -2,4 +2,7 @@
 ## Repositório criado para o desafio do projeto
 
 Links Úteis
-https://www.markdownguide.org/basic-syntax/
+* https://www.markdownguide.org/basic-syntax/
+* https://pypi.org/project/django-stdimage/
+
+### Projeto bem simples em Python com Django de uma agenda telefônica apenas para cumprir o desafio DIO.
