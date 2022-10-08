@@ -4,5 +4,6 @@
 Links Úteis
 * https://www.markdownguide.org/basic-syntax/
 * https://pypi.org/project/django-stdimage/
+* https://www.toptal.com/developers/gitignore
 
 ### Projeto bem simples em Python com Django de uma agenda telefônica apenas para cumprir o desafio DIO.
